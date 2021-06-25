@@ -11,7 +11,7 @@ You downloaded a video with subtitles that don’t match the ones you want to us
 - [Python](https://www.python.org/downloads/) 3+
 
 ## Information
- - Ne prend en charge que les fichier de sous titre de format ASS (SubStation Alpha)
+ - Only supports ASS (SubStation Alpha) format subtitle files
  - Do not add extension when declaring files (do not put .ass)
  - Based on the time of the first dialogue of the reference file
  - If the time does not match, try to disable time scaling with the "--ignore"
