@@ -1,0 +1,2 @@
+# SubFormator
+You downloaded a video with subtitles that don’t match the ones you want to use, so you downloaded subtitles in the language you want to use, except that, unfortunately, they don’t connect with the speech. Well this script offers you a solution. Using the reference subtitle file designed for the video, you will now be able to adapt your external subtitle files. The program adjusts the speaking time to the source file. You can also use the default style or apply only the default style without changing the speaking time.
