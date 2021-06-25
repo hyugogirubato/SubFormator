@@ -23,8 +23,8 @@ You downloaded a video with subtitles that don’t match the ones you want to us
 | --input | Define the subtitle file to be modified | Without extension |
 | --default | Use the default style | No argument |
 | --ignore | Ignore Time Scale | No argument |
-| --title | Define the title | French (France) | Text |
-| --author | Define the author | French (France) | Text |
+| --title | Define the title | Text |
+| --author | Define the author | Text |
 | --play_res | Set the image size | Width**x**Hight |
 
 ## Examples
